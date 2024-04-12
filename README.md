@@ -1,12 +1,11 @@
-# starter-express-api
+# AiLearnt Server
 
-This is the simplest possible nodejs api using express that responds to any request with: 
+
+This is a basic back-end server to use the Open Ai API.
+
+Run
 ```
-Yo!
+node index.js
 ```
 
-### Deploy it in 7 seconds: 
-
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
-
-"# aiLearntBackEnd" 
+And the server will load.
